@@ -7,7 +7,7 @@ title = "BitPrimate"
 weight = 1
 +++
 
-The profile picture uses a portrait for the human form and boxes of multiple shades to represent the abstract nature of our personalities. This is encapsulated in something that looks like a television, representing the media (social media to be specific) through which we share ourlves these days.
+The profile picture uses a portrait for the human form and boxes of multiple shades to represent the abstract nature of our personalities. This is encapsulated in something that looks like a television, representing the media (social media to be specific) through which we share ourselves these days.
 
 <!--more-->
 
